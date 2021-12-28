@@ -11,6 +11,7 @@ class Links extends Component {
           className="btn btn-link"
           href="https://luisfergromo.web.app/"
           rel="noopener"
+          target="_blank"
         >
           <FontAwesomeIcon icon={faGlobe} /> Personal Web Page
         </a>
@@ -19,6 +20,7 @@ class Links extends Component {
           className="btn btn-link"
           rel="noopener"
           href="https://github.com/luisfergromo"
+          target="_blank"
         >
           <FontAwesomeIcon icon={faGithub} />
           Github

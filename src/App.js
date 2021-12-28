@@ -10,8 +10,8 @@ function App() {
   return (
     <div className="App">
       <div className="header">
-        <a href="https://github.com/luisfergromo/1link-access">
-          <img className="github-clone" src={github} alt="" />
+        <a href="https://github.com/luisfergromo/1link-access" target="_blank">
+          <img className="github-clone" src={github} alt="Ícono de Github" />
         </a>
       </div>
 
