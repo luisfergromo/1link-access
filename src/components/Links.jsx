@@ -9,7 +9,7 @@ class Links extends Component {
         <a
           aria-hidden="true"
           className="btn btn-link"
-          href="https://luisfergromo.web.app/"
+          href="https://luisfergromo.vercel.app/"
           rel="noopener"
           target="_blank"
         >
